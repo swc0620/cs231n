@@ -9,8 +9,13 @@ Lecture videos can be found [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&l
 
 ### Assignment 1
 
-* Q1: k-Nearest Neighbor classifier [link](https://github.com/swc0620/cs231n/blob/master/assignment1/knn.ipynb)
-* Q2: Training a Support Vector Machine [link](https://github.com/swc0620/cs231n/blob/master/assignment1/svm.ipynb)
-* Q3: Implement a Softmax classifier [link](https://github.com/swc0620/cs231n/blob/master/assignment1/softmax.ipynb)
-* Q4: Two-Layer Neural Network [link](https://github.com/swc0620/cs231n/blob/master/assignment1/two_layer_net.ipynb)
-* Q5: Higher Level Representations: Image Features [link](https://github.com/swc0620/cs231n/blob/master/assignment1/features.ipynb)
+* Q1: k-Nearest Neighbor classifier 
+👉[link](https://github.com/swc0620/cs231n/blob/master/assignment1/knn.ipynb)
+* Q2: Training a Support Vector Machine 
+👉[link](https://github.com/swc0620/cs231n/blob/master/assignment1/svm.ipynb)
+* Q3: Implement a Softmax classifier 
+👉[link](https://github.com/swc0620/cs231n/blob/master/assignment1/softmax.ipynb)
+* Q4: Two-Layer Neural Network 
+👉[link](https://github.com/swc0620/cs231n/blob/master/assignment1/two_layer_net.ipynb)
+* Q5: Higher Level Representations: Image Features 
+👉[link](https://github.com/swc0620/cs231n/blob/master/assignment1/features.ipynb)
