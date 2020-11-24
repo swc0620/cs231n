@@ -5,6 +5,7 @@ This repository contains my solutions to the assignments of cs231n course offere
 Lecture notes and assignments can be found [here](http://cs231n.stanford.edu/2020/syllabus.html) (Spring 2020)
 
 Lecture videos can be found [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&ab_channel=StanfordUniversitySchoolofEngineering) (Spring 2017)
+
 ---
 
 ### Assignment 1
